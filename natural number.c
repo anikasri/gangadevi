@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a;
-scanf("%d",&a);
-printf("%d",((a*(a+1))/2));
+int c;
+scanf("%d",&c);
+printf("%d",((c*(c+1))/2));
 }
